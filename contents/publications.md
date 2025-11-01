@@ -8,7 +8,7 @@
 
 ##### (Published)
 
-- L. Qin, D. Li*, C. Li, Y. Hou, J. Gao, <strong>B. Yin</strong>, "SAULC: Semantic-Driven Adaptive System for UAV-LEO Satellite Varying Channel," 2025 International Conference on Artificial Intelligence of Things and Systems (IEEE AIoTSys'25, Best Paper提名). 
+- L. Qin, D. Li*, C. Li, Y. Hou, J. Gao, <strong>B. Yin</strong>, "SAULC: Semantic-Driven Adaptive System for UAV-LEO Satellite Varying Channel," 2025 International Conference on Artificial Intelligence of Things and Systems (IEEE AIoTSys'25, Best Paper提名(8/160)). 
 
 #### 专利
 
