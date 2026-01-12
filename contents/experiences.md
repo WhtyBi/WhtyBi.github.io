@@ -50,9 +50,13 @@
 
 #### 相关链接
 
-- 2025.07，参与哈工大研支团尉犁队“向天山寄语，于大漠极目”支教分享活动. [[青春尉犁]](https://mp.weixin.qq.com/s/S_xzli-LiZ-gvy9wXP59cQ)
+- 2026.01，参加中英高校青年论坛. [[哈工大视频号]] (https://b23.tv/AnyS7Wz)
 
-- 2025.06，作为毕业生党员代表，参加计算学部“光熙像前毕业承诺”暨2025届毕业生党员出征仪式，担任光熙火炬传递者、重温入党誓词领誓人，并被授予"匠心追梦，大国重器"院旗. [[计算学部公众号]](https://mp.weixin.qq.com/s/Z65KKOdM1zJ2gkfEWa7qvw)
+- 2026.01，作为校龙舟队成员，参加"哈工大-剑桥-牛津(哈剑牛)杯"冰上龙舟国际友谊赛. [[哈工大公众号]](https://mp.weixin.qq.com/s/WpCpYGue1agdIp4TBIK-bA)
+
+- 2025.07，参与哈工大研支团尉犁队"向天山寄语，于大漠极目"支教分享活动. [[青春尉犁]](https://mp.weixin.qq.com/s/S_xzli-LiZ-gvy9wXP59cQ)
+
+- 2025.06，作为毕业生党员代表，参加计算学部"光熙像前毕业承诺"暨2025届毕业生党员出征仪式，担任光熙火炬传递者、重温入党誓词领誓人，并被授予"匠心追梦，大国重器"院旗. [[计算学部公众号]](https://mp.weixin.qq.com/s/Z65KKOdM1zJ2gkfEWa7qvw)
 
 - 2025.04，微视频《你可以的》，根据本人亲身经历改编. [[计算学部公众号]](https://mp.weixin.qq.com/s/VXXi_64xH3QOBPGpaclMAA)
 
@@ -76,6 +80,5 @@
 
 - 2023.12，参加哈工大首届冰上龙舟体验课程及友谊赛. [[体育部公众号]](https://mp.weixin.qq.com/s/-Mv3ifUDu5ujZ3dzNFG2uw)
 
-- 2023.06，参加哈尔滨市第27届端午节龙舟比赛. 
-[[体育部公众号]](https://mp.weixin.qq.com/s/-sJ16WRMyagixnr2LFDGng)
+- 2023.06，参加哈尔滨市第27届端午节龙舟比赛. [[体育部公众号]](https://mp.weixin.qq.com/s/-sJ16WRMyagixnr2LFDGng)
 
