@@ -52,7 +52,7 @@
 
 #### 相关链接
 
-- 2026.02，个人事迹获学校官方微信公众号报道: "最低分录取，今年他以专业第一名推免！". [[哈工大公众号]](https://mp.weixin.qq.com/s/3SfwpHkJt8BY0UnjNavLmA)
+- 2026.02，个人事迹获哈工大官方公众号、中国青年报等专题报道. [[哈工大公众号]](https://mp.weixin.qq.com/s/3SfwpHkJt8BY0UnjNavLmA) [[中国青年报]](https://mp.weixin.qq.com/s/WNJpWfqA2cYxpSBtz80A-A) [[黑龙江共青团]](https://mp.weixin.qq.com/s/h_Q7vGg4lVvpU7eZ7oXq4g)
 
 - 2026.01，参加中英高校青年论坛. [[哈工大视频号]](https://b23.tv/AnyS7Wz)
 
