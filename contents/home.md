@@ -1,6 +1,6 @@
 
 
-尹博，汉族，中共党员，哈尔滨工业大学 2025 级硕士研究生，计算机科学与技术专业。本科毕业于哈尔滨工业大学计算学部物联网工程专业，以学分绩专业第 <strong>1</strong> 名、综合成绩专业第 <strong>2</strong> 名推免录取至泛在计算与智能系统研究中心 (UbiCIS)--刘劼教授团队，导师李东博副教授。发表会议论文 <strong>1</strong> 篇 (AIoTSys'25)，以第一作者/学生第一作者在投 CCF-A 期刊论文 <strong>2</strong> 篇；授权和受理国家发明专利 <strong>6</strong> 项；参与科研项目 <strong>2</strong> 项。曾获<strong>国家奖学金、黑龙江省"优秀毕业生"、物联网竞赛全国总决赛一等奖</strong>等 <strong>20</strong> 余项奖励荣誉。个人事迹曾获哈工大公众号、中国青年报等多家媒体专题报道。
+尹博，汉族，中共党员，哈尔滨工业大学 2025 级硕士研究生，计算机科学与技术专业。本科毕业于哈尔滨工业大学计算学部物联网工程专业，以学分绩专业第 <strong>1</strong> 名、综合成绩专业第 <strong>2</strong> 名推免录取至泛在计算与智能系统研究中心 (UbiCIS)--刘劼教授团队，导师李东博副教授。发表 CCF-A 期刊论文 <strong>1</strong> 篇 (<strong>学生第一作者</strong>)、IEEE 会议论文 <strong>1</strong> 篇，在投 CCF-A 期刊论文 <strong>1</strong> 篇 (<strong>第一作者</strong>)；授权和受理国家发明专利 <strong>6</strong> 项；参与科研项目 <strong>2</strong> 项。曾获<strong>国家奖学金、黑龙江省"优秀毕业生"、物联网竞赛全国总决赛一等奖</strong>等 <strong>20</strong> 余项奖励荣誉。个人事迹曾获哈工大公众号、中国青年报等多家媒体专题报道。
 
 #### Contact
 
