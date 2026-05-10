@@ -4,8 +4,8 @@
 
 #### Contact
 
-Email: 2748932473@qq.com\
-25S003049@stu.hit.edu.cn
+Email: 25S003049@stu.hit.edu.cn\
+hit_yinbo@163.com
 
 #### Education
 2025-至今，哈尔滨工业大学，计算机科学与技术，硕士研究生在读\
