@@ -4,7 +4,7 @@
 
 #### Contact
 
-Email: hit_yinbo@163.com\
+Email: 25S003049@stu.hit.edu.cn\
 hit_yinbo@163.com
 
 #### Education
