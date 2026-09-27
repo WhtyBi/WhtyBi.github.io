@@ -2,11 +2,11 @@
 
 ##### (Published)
 
+- <strong>B. Yin</strong>, D. Li*, H. Chen, J. Liu, and G. Xing, "DA-ISCC: Dynamic Adaptation for Integrated Sensing, Communication, and Computation in SAGINs." 
+
 - D. Li, <strong>B. Yin</strong>, D. Yan, J. Liu, G. Xing, and Z. Li, "SAFVIN: Edge Intelligence for Satellite and Autonomous Farm Vehicle Integrated Networks," IEEE Transactions on Mobile Computing, pp. 1–16, 2026. 
 
 - L. Qin, D. Li*, C. Li, Y. Hou, J. Gao, and <strong>B. Yin</strong>, "SAULC: Semantic-Driven Adaptive Method for UAV-LEO Satellite Communication," 2025 International Conference on Artificial Intelligence of Things and Systems (IEEE AIoTSys'25, Best Paper提名 (8/160)). 
-
-- <strong>B. Yin</strong>, D. Li*, H. Chen, J. Liu, and G. Xing, "DA-ISCC: Dynamic Adaptation for Integrated Sensing, Communication, and Computation in SAGINs." 
 
 ##### (Submitted)
 
